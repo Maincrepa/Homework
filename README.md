@@ -1,6 +1,6 @@
 Hello everyone!
 
-I'm currently studying "Higher Technician in Multiplatform Application Development" to put it formally. In Spain, where I'm studying, it's called Ciclo Formativo de Grado Superior, Desarollo de Aplicaciones Multiplataforma.
+I'm currently studying "Higher National Diploma in Multiplatform Application Development" to put it formally. In Spain, where I'm studying, it's called Ciclo Formativo de Grado Superior, Desarollo de Aplicaciones Multiplataforma.
 
 Currently, all my projects in this repo will be in Java, which is the language I'm studying at the moment. And being multilingual, the comments and exercices might be in multiple languages; English, Spanish, Catalan.
 
