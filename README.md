@@ -9,3 +9,5 @@ Since I am a student, who is learning, my projects aren't perfect, and I'm aware
 * Since these are graded assignments, AI use is prohibited, so all the work in this repo is fully coded with human sweat.
 
 Thanks for checking out this repo, hope you can learn something or just check out the projects I've been working on.
+
+* Moved to a new repository: https://github.com/Maincrepa/School_Coding
